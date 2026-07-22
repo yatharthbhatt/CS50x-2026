@@ -1,0 +1,6 @@
+/libcs50
+/Virtual-EnvironMent-Python
+/Virtual-EnvironMent-Python-WSL
+
+# SQLite databases are generated locally (CS50 pset downloads / Flask app runs)
+*.db
