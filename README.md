@@ -11,9 +11,10 @@ I have completed all problem sets, labs, and the final project.
 ## 🏆 Certificate
 
 <!-: Certificate not issued yet. Once received, paste the link here:
+<img width="1286" height="993" alt="image" src="https://github.com/user-attachments/assets/184db06e-1ece-4d88-ac68-a6509b7fab62" />
+
 <div align="center">
   <a href="https://cs50.harvard.edu/certificates/8bd38fb5-3e6a-4e14-bd92-9bf80e767df9">
-    <img src="https://cs50.harvard.edu/certificates/8bd38fb5-3e6a-4e14-bd92-9bf80e767df9.png" alt="CS50x Certificate" width="600">
     <br>
     <em>Click to verify</em>
   </a>
