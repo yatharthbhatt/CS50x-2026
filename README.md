@@ -10,17 +10,15 @@ I have completed all problem sets, labs, and the final project.
 
 ## 🏆 Certificate
 
-<!-- TODO: Certificate not issued yet. Once received, paste the link here:
+<!-: Certificate not issued yet. Once received, paste the link here:
 <div align="center">
-  <a href="https://cs50.harvard.edu/certificates/YOUR-CERTIFICATE-ID">
-    <img src="https://cs50.harvard.edu/certificates/YOUR-CERTIFICATE-ID.png" alt="CS50x Certificate" width="600">
+  <a href="https://cs50.harvard.edu/certificates/8bd38fb5-3e6a-4e14-bd92-9bf80e767df9">
+    <img src="https://cs50.harvard.edu/certificates/8bd38fb5-3e6a-4e14-bd92-9bf80e767df9.png" alt="CS50x Certificate" width="600">
     <br>
     <em>Click to verify</em>
   </a>
 </div>
 -->
-
-_Certificate pending — will be added once issued by Harvard._
 
 ## 📚 Curriculum & Progress
 
